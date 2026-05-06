@@ -1,30 +1,18 @@
-<!-- Header/Banner (Optional but recommended) -->
-<!-- Add a cool SVG or text banner here. Example: https://capsule-render.vercel.app/ -->
+<!-- Header/Banner -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/{{your-username}}">D B Y Binuwara</a> 👋</h1>
 
 <!-- Animated Typing Effect (Optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines={{Your+Role}};Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=45&color=blue&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines={Computer+Science+undergraduate;{{Software+Engineering+Enthusiast&font=Fira%20Code&center=true&width=380&height=45&color=blue&vCenter=true&size=22">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username={{your-username}}&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=D_B_Y_Binuwara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
-## 📖 About Me
+<!-- ## 📖 About Me -->
 
-I'm a passionate {{developer/designer/engineer}} based in {{location}}. 
-
-- 🔭 I’m currently working on **{{current project or role}}**
-- 🌱 I’m currently learning **{{technology/course}}**
-- 👯 I’m looking to collaborate on **{{type of projects}}**
-- 💬 Ask me about **{{your areas of expertise}}**
-- 📫 How to reach me: **{{email}}** or [{{LinkedIn/Twitter}}]({{link}})
-- ⚡ Fun fact: **{{interesting fact about you}}**
-
----
 
 ## 🚀 Projects
 
@@ -62,52 +50,52 @@ I'm a passionate {{developer/designer/engineer}} based in {{location}}.
 
 ## 💻 Programming Languages
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <!-- Add/remove icons as needed. Find more at: https://devicon.dev/ -->
-</p>
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
 ### Frameworks & Libraries
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/> -->
   <!-- Add more: FastAPI, Spring, Vue, Angular, etc -->
-</p>
+</div>
 
 ### Databases & Cloud
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
-</p>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/> -->
+</div>
 
 ### Dev Tools
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-</p>
+</div>
 
 ---
 
 <!-- OPTIONAL ADDITIONS (Choose what you like) -->
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username={{your-username}}&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{your-username}}&layout=compact&theme=radical&langs_count=8"/>
