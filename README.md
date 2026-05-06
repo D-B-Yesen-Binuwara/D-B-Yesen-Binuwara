@@ -1,6 +1,6 @@
 <!-- Header/Banner (Optional but recommended) -->
 <!-- Add a cool SVG or text banner here. Example: https://capsule-render.vercel.app/ -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/{{your-username}}">{{Your Name}}</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/{{your-username}}">D B Y Binuwara</a> 👋</h1>
 
 <!-- Animated Typing Effect (Optional) -->
 <p align="center">
