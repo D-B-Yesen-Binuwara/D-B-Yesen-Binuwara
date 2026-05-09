@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=45&color=blue&vCenter=true&size=18" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=D-B-Yesen-Binuwara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 
 <!-- ## 📖 About Me -->
