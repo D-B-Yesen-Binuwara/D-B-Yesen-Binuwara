@@ -99,13 +99,11 @@
 
 ---
 
-<!-- OPTIONAL ADDITIONS (Choose what you like) -->
-
-### 📊 GitHub Stats
-<p align="center">
+<!-- ### 📊 GitHub Stats -->
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-B-Yesen-Binuwara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-B-Yesen-Binuwara&layout=compact&theme=radical&langs_count=8"/>
-</p>
+</p> -->
 
 ### 🔥 Streak Stats
 <p align="center">
