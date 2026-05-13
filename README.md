@@ -13,38 +13,6 @@
 
 <!-- ## 📖 About Me -->
 
-## 🚀 Projects
-
-### [{{Project Title 1}}]({{Link to repo/live demo}})
-> **{{Short tagline or tech used}}**
-
-{{Detailed description of what the project does, the problem it solves, or the key features. Keep it to 2-3 sentences.}}
-
-<details>
-<summary>✨ Highlights</summary>
-
-- Feature 1
-- Feature 2
-- Live demo: [Link]({{url}})
-</details>
-
----
-
-### [{{Project Title 2}}]({{Link to repo/live demo}})
-> **{{Short tagline or tech used}}**
-
-{{Detailed description of the project. Explain your role if it's a team project.}}
-
-<details>
-<summary>✨ Highlights</summary>
-
-- Key accomplishment
-- Tech stack used
-- Screenshot/GIF (optional)
-</details>
-
----
-
 <!-- Add more projects as needed. Aim for 3-5 good ones -->
 
 ## 💻 Programming Languages
