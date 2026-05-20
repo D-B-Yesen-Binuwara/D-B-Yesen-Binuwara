@@ -15,7 +15,7 @@
 
 <!-- Add more projects as needed. Aim for 3-5 good ones -->
 
-## 💻 Programming Languages
+## 💻 Languages
 
 <table align="center">
   <tr>
