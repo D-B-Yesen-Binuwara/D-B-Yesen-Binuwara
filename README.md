@@ -106,14 +106,6 @@
 
 ---
 
-<!-- Footer (Optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/{{your-username}}/{{your-username}}/output/snake.svg" alt="Snake animation" />
-  <!-- You'll need a GitHub Action to generate the snake SVG. See: https://github.com/Platane/snk -->
-</p>
-
 <p align="center">
   <i>"Passionate about building scalable applications and solving complex problems"</i>
 </p> 
-
-remove the unnecessary commented sections. also my tropies only show a unloaded imge lke icon
