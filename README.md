@@ -1,14 +1,19 @@
-<!-- ======================= HEADER ======================= -->
+<!-- Header/Banner -->
+<h1 align="center">Hi there, I'm <a href="https://github.com/D-B-Yesen-Binuwara">D B Y Binuwara</a> 👋</h1>
 
-<h1 align="center">
-  Hi there, I'm <a href="https://github.com/D-B-Yesen-Binuwara">D B Y Binuwara</a> 👋
-</h1>
-
+<!-- Animated Typing Effect (Optional) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=45&color=blue&vCenter=true&size=18" alt="Typing SVG" />
 </p>
 
----
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=D-B-Yesen-Binuwara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p> -->
+
+
+<!-- ## 📖 About Me -->
+
+<!-- Add more projects as needed. Aim for 3-5 good ones -->
 
 ## 💻 Languages
 
@@ -23,79 +28,64 @@
   </tr>
 </table>
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### Frameworks & Libraries
-
 <table align="center">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/></td>
-  </tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="MERN" width="50" height="50" style="margin: 5px;"/></td>
+  </tr>  
 </table>
 
 ### Databases & Cloud
-
 <table align="center">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" style="margin: 5px;"/></td>
   </tr>
 </table>
 
-### Development Tools
-
+### Dev Tools
 <table align="center">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 5px;"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 5px;"/></td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ### 📊 GitHub Stats -->
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-B-Yesen-Binuwara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-B-Yesen-Binuwara&layout=compact&theme=radical&langs_count=8"/>
+</p> -->
 
+### 🔥 Streak Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=D-B-Yesen-Binuwara&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-B-Yesen-Binuwara&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-B-Yesen-Binuwara&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
+### 🏆 Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=D-B-Yesen-Binuwara&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=D-B-Yesen-Binuwara&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D-B-Yesen-Binuwara&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-B-Yesen-Binuwara&theme=react-dark&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-B-Yesen-Binuwara&theme=react-dark&area=true&hide_border=true" width="90%"/>
 </p>
 
 ---
@@ -104,25 +94,26 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/d-b-yesen-binuwara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="mailto:yesenbinuwara2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="mailto:yesenbinuwara2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <!-- <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a> -->
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
+<!-- Footer (Optional) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/D-B-Yesen-Binuwara/D-B-Yesen-Binuwara/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/{{your-username}}/{{your-username}}/output/snake.svg" alt="Snake animation" />
+  <!-- You'll need a GitHub Action to generate the snake SVG. See: https://github.com/Platane/snk -->
 </p>
 
----
-
 <p align="center">
-  <i>"Passionate about building scalable applications and solving complex problems."</i>
-</p>
-```
+  <i>"Passionate about building scalable applications and solving complex problems"</i>
+</p> 
+
+remove the unnecessary commented sections. also my tropies only show a unloaded imge lke icon
