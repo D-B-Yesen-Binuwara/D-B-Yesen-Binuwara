@@ -78,10 +78,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-B-Yesen-Binuwara&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 Trophies
-<p align="center">
+<!-- ### 🏆 Trophies -->
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=D-B-Yesen-Binuwara&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
-</p>
+</p> -->
 
 ### 📈 Activity Graph
 <p align="center">
