@@ -96,9 +96,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-B-Yesen-Binuwara&theme=react-dark&area=true&hide_border=true" width="90%"/>
 </p>
 
----
-
-## 🤝 Connect with Me
+<!-- ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/d-b-yesen-binuwara">
@@ -110,7 +108,7 @@
   <!-- <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a> -->
-</p>
+<!-- </p> -->
 
 ---
 
