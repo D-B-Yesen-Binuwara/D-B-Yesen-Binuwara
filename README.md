@@ -1,6 +1,9 @@
 <!-- Header/Banner -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/D-B-Yesen-Binuwara">D B Y Binuwara</a> 👋</h1>
 <p align="center">
+  <i>"Passionate about building scalable applications and solving complex problems"</i>
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/d-b-yesen-binuwara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -108,10 +111,4 @@
   <!-- <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a> -->
-<!-- </p> -->
-
----
-
-<p align="center">
-  <i>"Passionate about building scalable applications and solving complex problems"</i>
-</p> 
+<!-- </p> --> 
