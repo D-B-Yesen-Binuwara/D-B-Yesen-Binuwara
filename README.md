@@ -70,21 +70,11 @@
 
 ---
 
-<!-- ### 📊 GitHub Stats -->
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-B-Yesen-Binuwara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-B-Yesen-Binuwara&layout=compact&theme=radical&langs_count=8"/>
-</p> -->
-
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-B-Yesen-Binuwara&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- ### 🏆 Trophies -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D-B-Yesen-Binuwara&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
-</p> -->
 
 ### 📈 Activity Graph
 <p align="center">
