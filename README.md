@@ -1,5 +1,6 @@
 <!-- Header/Banner -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/D-B-Yesen-Binuwara">D B Y Binuwara</a> 👋</h1>
+
 <p align="center">
   <i>"Passionate about building scalable applications and solving complex problems"</i>
 </p>
@@ -16,15 +17,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=45&color=blue&vCenter=true&size=18" alt="Typing SVG" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D-B-Yesen-Binuwara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
-
-
-<!-- ## 📖 About Me -->
-
-<!-- Add more projects as needed. Aim for 3-5 good ones -->
 
 ## 💻 Languages
 
@@ -98,17 +90,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-B-Yesen-Binuwara&theme=react-dark&area=true&hide_border=true" width="90%"/>
 </p>
-
-<!-- ## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/d-b-yesen-binuwara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-    <a href="mailto:yesenbinuwara2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a> -->
-<!-- </p> --> 
