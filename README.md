@@ -1,7 +1,9 @@
-# Hi there, I'm [D B Y Binuwara](https://github.com/D-B-Yesen-Binuwara) 👋
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/D-B-Yesen-Binuwara">D B Y Binuwara</a> 👋
+</h1>
 
 <p align="center">
-  <i>"Passionate about building scalable applications and solving complex problems"</i>
+  <i>Passionate about building scalable applications and solving complex problems</i>
 </p>
 
 <p align="center">
@@ -14,7 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full+Stack+Developer&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=18" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full+Stack+Developer&font=Fira+Code&center=true&width=500&height=45&color=2F81F7&vCenter=true&size=18"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -22,12 +27,17 @@
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="52" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" alt="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="52" alt="Kotlin"/>
 </p>
 
 ---
@@ -36,37 +46,51 @@
 
 <table align="center">
   <tr>
-    <th>Frameworks & Libraries</th>
-    <th>Databases & Cloud</th>
-    <th>Dev Tools</th>
+    <th align="center">Frameworks & Libraries</th>
+    <th align="center">Databases & Cloud</th>
+    <th align="center">Dev Tools</th>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" alt=".NET"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" alt="Spring"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express"/>
     </td>
 
 ```
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/>
+<td align="center" valign="middle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="AWS"/>
 </td>
 
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
+<td align="center" valign="middle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ IDEA"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" alt="Android Studio"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" alt="Figma"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
 </td>
 ```
 
@@ -78,50 +102,42 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=D-B-Yesen-Binuwara&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats"
-    height="180"
-  />
-
-<img 
- src="https://github-readme-streak-stats.herokuapp.com/?user=D-B-Yesen-Binuwara&theme=radical&hide_border=true" 
- alt="GitHub Streak"
- height="180"
-/>
-
+  <a href="https://github.com/D-B-Yesen-Binuwara">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=D-B-Yesen-Binuwara&show_icons=true&theme=radical&hide_border=true&count_private=true"
+      height="180"
+      alt="GitHub Stats"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-B-Yesen-Binuwara">
+    <img
+      src="https://streak-stats.demolab.com/?user=D-B-Yesen-Binuwara&theme=radical&hide_border=true"
+      height="180"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
 
-## 📈 Tech Stack Progress
+## 📚 Most Used Languages
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-B-Yesen-Binuwara&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
     height="180"
+    alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
-  <i>Languages shown above are based on the code currently detected across my public GitHub repositories.</i>
+  <i>Based on the languages detected in my public repositories.</i>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=D-B-Yesen-Binuwara&theme=radical&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
   <img
@@ -135,9 +151,9 @@
 
 ## 🚀 What I'm Working On
 
-* 🔭 Building scalable full-stack applications
-* 🌱 Improving my software engineering and system design skills
-* 💡 Exploring cloud technologies and modern development practices
+* 🔨 Building scalable full-stack applications
+* 🌱 Improving software engineering and system design skills
+* ☁️ Exploring cloud technologies and modern development practices
 * 🤝 Open to collaborating on interesting software projects
 
 ---
