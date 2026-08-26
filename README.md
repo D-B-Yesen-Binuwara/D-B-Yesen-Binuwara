@@ -1,6 +1,3 @@
-admin@assetflow.test
-password
-
 <!-- Header/Banner -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/D-B-Yesen-Binuwara">D B Y Binuwara</a> 👋</h1>
 
